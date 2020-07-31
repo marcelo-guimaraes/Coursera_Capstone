@@ -1,3 +1,1 @@
-# Coursera_Capstone
-
-http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3#
+# Capstone do Curso Profissionalizante em Ciência de dados da IBM pelo Coursera
